@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+}
+h1 {
+    color: green;
+    border: 2px solid black;
+    border-radius: 14px;
+}
+.topDiv {
+    font-size: 24px;
+    font-style: italic;
+}
+#thirdDiv {
+    font-weight: bold;
+}

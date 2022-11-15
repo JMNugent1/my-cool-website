@@ -1,2 +1,1 @@
-# my-cool-website
-My Cool Website
+Check it out at: https://jmnugent1.github.io/my-cool-website
